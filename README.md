@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**patriciakur/patriciakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meowdy! My name is **Patricia Kurniawan**! I'm a graduate from University of Houston with a BS in Computer Science and minoring in both Digital Media and Mathematics!
 
-Here are some ideas to get you started:
+I have an interest in Game Development, Augmented and Virtual Reality, and Website Development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages (Ranked)
+<img src="https://skillicons.dev/icons?i=cpp,js,cs,py,ts,html,css" />
+
+
+### Tools
+<img src="https://skillicons.dev/icons?i=angular,express,postgres,unity,vscode,nodejs,ps,pr,ai,xd,ae&perline=6" />
+
+
+### Currently Learning
+<img src="https://skillicons.dev/icons?i=aws,threejs,gcp,react,unreal,godot,autocad,azure,blender,bots" />
+
+### Find me on
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/patriciakur)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/patricia-kurniawan-4a3074197/)
